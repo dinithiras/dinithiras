@@ -1,6 +1,6 @@
 ## Hii I m Dinithi Ranasingha 👋
 
-<!--
+
 
 
 ### Software Engineering Undergraduate | Full-Stack Developer | Business & Data Enthusiast
@@ -160,4 +160,3 @@ My goal is to develop strong technical and business capabilities and become a pr
 
 ### Thanks for visiting my profile! 🚀
 
--->
