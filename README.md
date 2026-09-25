@@ -1,4 +1,4 @@
-## Hii I m Dinithi Ranasingha 👋
+## Hii I'm Dinithi Ranasingha 👋
 
 
 
